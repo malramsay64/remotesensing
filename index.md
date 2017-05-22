@@ -1,5 +1,5 @@
-Remote Sensing in Australia
-===========================
+Index
+=====
 
 This is a collection of resources that I wish I had when starting [FluroSat](www.flurosat.com).
 If you have any suggestions or improvements feel free to get in contact with me.
@@ -9,4 +9,4 @@ If you have any suggestions or improvements feel free to get in contact with me.
 
 
 
-[earthengine](contents/earthengine.md)
+[earthengine]: contents/earthengine.md
