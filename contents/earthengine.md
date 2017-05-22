@@ -56,7 +56,7 @@ Note: when generating the images above I was using Safari because the _Run_ butt
 If you are unable to run the script, try a different browser.
 
 [NDVI info]: https://earthobservatory.nasa.gov/Features/MeasuringVegetation/measuring_vegetation_1.php
-[rgb narrabri]: /contents/images/rgb_narrabri.png
-[ndvi narrabri]: /contents/images/ndvi_narrabri.png
+[rgb narrabri]: /remotesensing/contents/images/rgb_narrabri.png
+[ndvi narrabri]: /remotesensing/contents/images/ndvi_narrabri.png
 
 
